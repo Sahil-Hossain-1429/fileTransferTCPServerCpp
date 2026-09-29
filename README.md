@@ -1,6 +1,6 @@
 # fileTransferTCPServerCpp
 
-A simple TCP-based file transfer application written in C++ that allows users to send and receive files between a server and client over a network.
+A lightweight TCP-based file transfer application written in C++ that allows users to send and receive files between a server and client over a network.
 
 ## Table Of Contents
 - [Overview](#overview)
